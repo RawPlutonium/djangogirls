@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+dagirls
+db.sqlite3
+/static
+.DS_Store
