@@ -1,1 +1,1 @@
-web: gunicorn djangogirls.wsgi:application --log-file -
+web: gunicorn dagalsblog.wsgi:application --log-file -
